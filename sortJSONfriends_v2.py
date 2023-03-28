@@ -1,4 +1,5 @@
 # sortowanie po timestamp pliku JSON
+# plik do poprawy jako argumenty w skrypcie w CMD | | skrypt.py plik1.json
 import json
 import sys
 
